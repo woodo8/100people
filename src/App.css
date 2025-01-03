@@ -1,0 +1,64 @@
+body{
+  background: url("./assets/images/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* box-shadow: 0px 400px 100px rgba(0, 0, 0, 0.9); */
+  background-color: hsla(0, 0%, 0%, 0.5);
+}
+.cardItem {
+  position: relative !important;
+  background-color: #1e1e1e !important ;  /* Dark background for the content */
+  border-radius: 20px !important;  /* Rounded corners for the content */
+  overflow: hidden;  /* Hide overflow to maintain border radius */
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3) !important;  /* Optional: subtle shadow */
+}
+
+.cardItem::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;  /* Rounded corners for the border */
+  background: linear-gradient(45deg, #3f87a6, #ebf8e1, #f2b5d4, #6a11cb);  /* Soft futuristic gradient */
+  z-index: -1;  /* Place the border behind the content */
+  padding: 5px;  /* Adjust the padding to control the border thickness */
+}
+
+
+/* Style the LinearProgress bar to be thicker and half the width */
+.futuristic-progress-bar {
+  background: linear-gradient(45deg, #645772, #8fb8ff); /* Gradient from purple to blue */
+  border-radius: 10px;
+  height: 15px !important; /* Increase the height to make it thicker */
+  width: 100%; /* Set width to 50% of the container */
+  margin: 0 auto; /* Center the progress bar */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Adjust the color of the progress fill */
+.futuristic-progress-bar .MuiLinearProgress-bar {
+  background: linear-gradient(45deg, #6a11cb, #2575fc);
+}
+
+.cardMedia{
+  height: 200px !important;
+}
+
+.nameOfPerson{
+  font-size: 18px !important;
+}
+@media (max-width: 500px) {
+  .cardMedia{
+    height: 120px !important;
+  }
+  .nameOfPerson{
+    font-size: 10px !important;
+  }
+  .descriptionOfPerson{
+    font-size: 20px !important;
+  }
+}

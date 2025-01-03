@@ -1,0 +1,527 @@
+[
+    {
+        "name": "Queen Elizabeth II",
+        "profession": "Queen of the United Kingdom",
+        "birth_death": "1926–2022",
+        "country": "United Kingdom",
+        "description": "The longest reigning monarch in British history, serving for over 70 years. Her reign saw many significant political changes in the UK and the Commonwealth."
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "profession": "Artist and Inventor",
+        "birth_death": "1452–1519",
+        "country": "Italy",
+        "description": "Famous for his artistic works like the Mona Lisa, and his visionary inventions that contributed to science and engineering."
+    },
+    {
+        "name": "Isaac Newton",
+        "profession": "Physicist and Mathematician",
+        "birth_death": "1643–1727",
+        "country": "England",
+        "description": "Formulated the laws of motion and universal gravitation, which laid the groundwork for classical mechanics and physics."
+    },
+    {
+        "name": "Amelia Earhart",
+        "profession": "Aviator",
+        "birth_death": "1897–1939",
+        "country": "USA",
+        "description": "The first female aviator to fly solo across the Atlantic Ocean. She was a pioneer in aviation and an inspiration for women in the field."
+    },
+    {
+        "name": "Ada Lovelace",
+        "profession": "Mathematician",
+        "birth_death": "1815–1852",
+        "country": "United Kingdom",
+        "description": "Recognized as the first computer programmer for her work on Charles Babbage’s early mechanical computer, the Analytical Engine."
+    },
+    {
+        "name": "Serena Williams",
+        "profession": "Tennis Player",
+        "birth_death": "1981–Present",
+        "country": "USA",
+        "description": "One of the greatest tennis players in history, has won numerous Grand Slam singles titles and remains a dominant force in the sport."
+    },
+    {
+        "name": "Thomas Edison",
+        "profession": "Inventor",
+        "birth_death": "1847–1931",
+        "country": "USA",
+        "description": "Known for inventing the phonograph and the practical electric light bulb, held over 1,000 patents."
+    },
+    {
+        "name": "Steve Jobs",
+        "profession": "Entrepreneur",
+        "birth_death": "1955–2011",
+        "country": "USA",
+        "description": "Co-founder of Apple Inc., was a visionary in the tech world, creating products like the iPhone, iPad, and MacBook."
+    },
+    {
+        "name": "Michael Jordan",
+        "profession": "Basketball Player",
+        "birth_death": "1963–Present",
+        "country": "USA",
+        "description": "Widely regarded as the greatest basketball player of all time, revolutionized the NBA and became a global icon."
+    },
+    {
+        "name": "Frida Kahlo",
+        "profession": "Artist",
+        "birth_death": "1907–1954",
+        "country": "Mexico",
+        "description": "Known for her deeply personal and surreal self-portraits, her work became an icon of Mexican culture and feminism."
+    },
+    {
+        "name": "Pablo Picasso",
+        "profession": "Artist",
+        "birth_death": "1881–1973",
+        "country": "Spain",
+        "description": "Co-founder of the Cubist movement and one of the most influential artists of the 20th century, revolutionized visual art."
+    },
+    {
+        "name": "Wright Brothers",
+        "profession": "Aviation Pioneers",
+        "birth_death": "1867–1948, 1871–1948",
+        "country": "USA",
+        "description": "Inventors of the first successful airplane, their flight in 1903 revolutionized aviation and changed the course of history."
+    },
+    {
+        "name": "Ludwig van Beethoven",
+        "profession": "Composer",
+        "birth_death": "1770–1827",
+        "country": "Germany",
+        "description": "One of the most influential composers in Western music,  his symphonies and sonatas have become cornerstones of classical music."
+    },
+    {
+        "name": "Elon Musk",
+        "profession": "Entrepreneur",
+        "birth_death": "1971–Present",
+        "country": "USA",
+        "description": "CEO of Tesla and SpaceX, has pushed the boundaries of technology and space exploration with his innovations in electric vehicles and space travel."
+    },
+    {
+        "name": "Babe Ruth",
+        "profession": "Baseball Player",
+        "birth_death": "1895–1948",
+        "country": "USA",
+        "description": "One of the greatest baseball players of all time, revolutionized the sport with his hitting prowess, particularly known for his home run record."
+    },
+    {
+        "name": "Maya Angelou",
+        "profession": "Author and Poet",
+        "birth_death": "1928–2014",
+        "country": "USA",
+        "description": "A renowned poet and author, works explore themes of identity, race, and resilience, with her most famous work being *I Know Why the Caged Bird Sings*."
+    },
+    {
+        "name": "Julius Caesar",
+        "profession": "General and Dictator",
+        "birth_death": "100–44 BC",
+        "country": "Rome",
+        "description": "A Roman general and statesman whose conquest of Gaul expanded the Roman Republic, his assassination marked the end of the Roman Republic and the rise of the Roman Empire."
+    },
+    {
+        "name": "Pele",
+        "profession": "Footballer",
+        "birth_death": "1940–2022",
+        "country": "Brazil",
+        "description": "Widely regarded as one of the greatest football players in history, won three FIFA World Cups and scored over 1,000 goals during his career."
+    },
+    {
+        "name": "Barack Obama",
+        "profession": "President of the United States",
+        "birth_death": "1961–Present",
+        "country": "USA",
+        "description": "The 44th president of the United States, was the first African American to hold office and is known for his policies on healthcare reform and climate change."
+    },
+    {
+        "name": "John F. Kennedy",
+        "profession": "President of the United States",
+        "birth_death": "1917–1963",
+        "country": "USA",
+        "description": "The 35th president of the United States, is remembered for his inspiring speeches, leadership during the Cuban Missile Crisis, and his tragic assassination."
+    },
+    {
+        "name": "Stephen Hawking",
+        "profession": "Theoretical Physicist",
+        "birth_death": "1942–2018",
+        "country": "United Kingdom",
+        "description": "Famous for his work on black holes and his theory of the universe’s origins, overcame a debilitating illness to become one of the most well-known scientists of his time."
+    },
+    {
+        "name": "Marie Antoinette",
+        "profession": "Queen of France",
+        "birth_death": "1755–1793",
+        "country": "Austria/France",
+        "description": "The queen consort of Louis XVI, became a symbol of the excesses of the French monarchy and was executed during the French Revolution."
+    },
+    {
+        "name": "Albert Schweitzer",
+        "profession": "Physician, Theologian, Musician",
+        "birth_death": "1875–1965",
+        "country": "Germany/France",
+        "description": "A humanitarian known for his work in Africa, was awarded the Nobel Peace Prize for his philosophy of reverence for life and his medical work."
+    },
+    {
+        "name": "Ruth Bader Ginsburg",
+        "profession": "Supreme Court Justice",
+        "birth_death": "1933–2020",
+        "country": "USA",
+        "description": "The second woman to serve on the U.S. Supreme Court, was a champion for women’s rights and gender equality during her long tenure."
+    },
+    {
+        "name": "Neil Armstrong",
+        "profession": "Astronaut",
+        "birth_death": "1930–2012",
+        "country": "USA",
+        "description": "The first person to walk on the Moon, his words, ‘That’s one small step for [a] man, one giant leap for mankind,’ are among the most famous in history."
+    },
+    {
+        "name": "Frances Perkins",
+        "profession": "Secretary of Labor",
+        "birth_death": "1880–1965",
+        "country": "USA",
+        "description": "The first woman appointed to the U.S. Cabinet, was a key figure in the development of New Deal programs and labor reforms."
+    },
+    {
+        "name": "Muhammad Ali",
+        "profession": "Boxer",
+        "birth_death": "1942–2016",
+        "country": "USA",
+        "description": "One of the greatest boxers of all time, was known for his charisma, activism, and groundbreaking victories in the boxing ring."
+    },
+    {
+        "name": "Salvador Dalí",
+        "profession": "Artist",
+        "birth_death": "1904–1989",
+        "country": "Spain",
+        "description": "A surrealist painter, his iconic works like *The Persistence of Memory* challenged perceptions of reality and time."
+    },
+    {
+        "name": "Elvis Presley",
+        "profession": "Musician and Actor",
+        "birth_death": "1935–1977",
+        "country": "USA",
+        "description": "Known as the 'King of Rock and Roll,' his music and persona revolutionized popular music and culture in the 20th century."
+    },
+    {
+        "name": "Florence Nightingale",
+        "profession": "Nurse and Social Reformer",
+        "birth_death": "1820–1910",
+        "country": "United Kingdom",
+        "description": "A pioneering nurse, revolutionized the field of healthcare, emphasizing sanitation and the importance of statistical analysis in medical care."
+    },
+    {
+        "name": "Alexander Graham Bell",
+        "profession": "Inventor and Scientist",
+        "birth_death": "1847–1922",
+        "country": "Scotland/USA",
+        "description": "Known for his invention of the telephone, contributions also extended to advances in communication technology and education for the hearing impaired."
+    },
+    {
+        "name": "Simone de Beauvoir",
+        "profession": "Philosopher and Feminist",
+        "birth_death": "1908–1986",
+        "country": "France",
+        "description": "A leading figure in feminist philosophy, her work, including *The Second Sex*, challenged traditional gender roles and advocated for women’s liberation."
+    },
+    {
+        "name": "LeBron James",
+        "profession": "Basketball Player",
+        "birth_death": "1984–Present",
+        "country": "USA",
+        "description": "One of the greatest basketball players in history, is known for his athleticism, leadership, and numerous championships with the NBA."
+    },
+    {
+        "name": "Mark Twain",
+        "profession": "Author",
+        "birth_death": "1835–1910",
+        "country": "USA",
+        "description": "Known for his novels *The Adventures of Tom Sawyer* and *Adventures of Huckleberry Finn*, is regarded as one of America’s greatest writers."
+    },
+    {
+        "name": "Oprah Winfrey",
+        "profession": "Media Mogul and Philanthropist",
+        "birth_death": "1954–Present",
+        "country": "USA",
+        "description": "A television host and businesswoman, she became one of the most influential figures in media, using her platform to advocate for social change and philanthropy."
+    },
+    {
+        "name": "Coco Chanel",
+        "profession": "Fashion Designer",
+        "birth_death": "1883–1971",
+        "country": "France",
+        "description": "Revolutionized women’s fashion, popularizing the 'little black dress' and introducing a more casual elegance to women’s wear with her iconic designs."
+    },
+    {
+        "name": "Richard Nixon",
+        "profession": "President of the United States",
+        "birth_death": "1913–1994",
+        "country": "USA",
+        "description": "The 37th president of the United States, is known for his role in the Watergate scandal, which led to his resignation, and his foreign policy achievements."
+    },
+    {
+        "name": "William Shakespeare",
+        "profession": "Playwright and Poet",
+        "birth_death": "1564–1616",
+        "country": "United Kingdom",
+        "description": "His works, including *Romeo and Juliet* and *Hamlet*, are some of the most performed and influential in world literature."
+    },
+    {
+        "name": "Anne Frank",
+        "profession": "Diaries Writer",
+        "birth_death": "1929–1945",
+        "country": "Germany/Netherlands",
+        "description": "Known for her diary documenting her life in hiding during the Holocaust, her story has become a symbol of the suffering of Jews during World War II."
+    },
+    {
+        "name": "Marilyn Monroe",
+        "profession": "Actress and Singer",
+        "birth_death": "1926–1962",
+        "country": "USA",
+        "description": "A cultural icon,  she was a Hollywood actress and sex symbol, remembered for her roles in films like *Some Like It Hot* and her tragic death at an early age."
+    },
+    {
+        "name": "Louis Armstrong",
+        "profession": "Jazz Musician",
+        "birth_death": "1901–1971",
+        "country": "USA",
+        "description": "A legendary jazz musician, his trumpet playing and vocal style transformed the genre and he remains one of the most influential figures in music history."
+    },
+    {
+        "name": "Harriet Tubman",
+        "profession": "Abolitionist and Activist",
+        "birth_death": "1822–1913",
+        "country": "USA",
+        "description": "A former slave, became a conductor on the Underground Railroad, leading dozens of enslaved people to freedom and later advocated for women's suffrage."
+    },
+    {
+        "name": "Theodore Roosevelt",
+        "profession": "President of the United States",
+        "birth_death": "1858–1919",
+        "country": "USA",
+        "description": "The 26th president of the United States, he was known for his progressive policies, trust-busting, and leadership during the construction of the Panama Canal."
+    },
+    {
+        "name": "Albert Einstein",
+        "profession": "Physicist",
+        "birth_death": "1879–1955",
+        "country": "Germany/USA",
+        "description": "He developed the theory of relativity, one of the two pillars of modern physics, and is known for his famous equation, E=mc²."
+    },
+    {
+        "name": "Beyoncé",
+        "profession": "Singer and Actress",
+        "birth_death": "1981–Present",
+        "country": "USA",
+        "description": "A global music icon, Beyoncé is known for her powerful voice, diverse music styles, and activism, becoming one of the best-selling music artists in history."
+    },
+    {
+        "name": "Karl Marx",
+        "profession": "Philosopher and Economist",
+        "birth_death": "1818–1883",
+        "country": "Germany",
+        "description": "He the co-author of *The Communist Manifesto*, which laid the foundation for socialist movements worldwide and critiqued capitalist societies."
+    },
+    {
+        "name": "Jane Austen",
+        "profession": "Author",
+        "birth_death": "1775–1817",
+        "country": "United Kingdom",
+        "description": "A novelist known for her keen observations of social life, His works such as *Pride and Prejudice* and *Sense and Sensibility* remain classics."
+    },
+    {
+        "name": "Socrates",
+        "profession": "Philosopher",
+        "birth_death": "470–399 BCE",
+        "country": "Greece",
+        "description": "He is considered one of the founders of Western philosophy, renowned for his Socratic method of inquiry and his focus on ethics and virtue."
+    },
+    {
+        "name": "Michelangelo",
+        "profession": "Artist and Sculptor",
+        "birth_death": "1475–1564",
+        "country": "Italy",
+        "description": "He was a Renaissance artist whose works, including the ceiling of the Sistine Chapel and *David*, have become iconic symbols of Western art."
+    },
+    {
+        "name": "Audrey Hepburn",
+        "profession": "Actress and Humanitarian",
+        "birth_death": "1929–1993",
+        "country": "Belgium/United Kingdom",
+        "description": "A beloved film actress known for her roles in *Breakfast at Tiffany’s* and *Roman Holiday*, she later became a UNICEF ambassador, advocating for children’s rights."
+    },
+    {
+        "name": "Winston Churchill",
+        "profession": "Prime Minister of the United Kingdom",
+        "birth_death": "1874–1965",
+        "country": "United Kingdom",
+        "description": "He was a key leader during World War II, known for his stirring speeches and unwavering resolve that played a vital role in the Allied victory."
+    },
+    {
+        "name": "Marie Curie",
+        "profession": "Physicist and Chemist",
+        "birth_death": "1867–1934",
+        "country": "Poland/France",
+        "description": "A pioneering scientist, She became the first woman to win a Nobel Prize and was recognized for her groundbreaking research in radioactivity."
+    },
+    {
+        "name": "Abraham Lincoln",
+        "profession": "President of the United States",
+        "birth_death": "1809–1865",
+        "country": "USA",
+        "description": "He served as the 16th president, leading the nation through the Civil War and emancipating enslaved individuals with the Emancipation Proclamation."
+    },
+    {
+        "name": "Galileo Galilei",
+        "profession": "Astronomer and Physicist",
+        "birth_death": "1564–1642",
+        "country": "Italy",
+        "description": "He was a key figure in the Scientific Revolution, improving the telescope and supporting the heliocentric theory of the solar system."
+    },
+    {
+        "name": "Mother Teresa",
+        "profession": "Missionary and Humanitarian",
+        "birth_death": "1910–1997",
+        "country": "Albania/India",
+        "description": "She dedicated her life to caring for the poor and sick in India, founding the Missionaries of Charity and winning the Nobel Peace Prize in 1979."
+    },
+    {
+        "name": "Christopher Columbus",
+        "profession": "Explorer",
+        "birth_death": "1451–1506",
+        "country": "Italy/Spain",
+        "description": "He is credited with opening up the Americas to European exploration, though his voyages also had a profound impact on indigenous populations."
+    },
+    {
+        "name": "Vincent van Gogh",
+        "profession": "Artist",
+        "birth_death": "1853–1890",
+        "country": "Netherlands",
+        "description": "He was a post-impressionist painter whose vivid, emotional works, such as *Starry Night*, have become some of the most recognizable in the art world."
+    },
+    {
+        "name": "Cleopatra",
+        "profession": "Queen of Egypt",
+        "birth_death": "69–30 BCE",
+        "country": "Egypt",
+        "description": "The last active ruler of the Ptolemaic Kingdom of Egypt, She is known for her political acumen, relationships with Julius Caesar and Mark Antony, and her role in Egypt’s struggles with Rome."
+    },
+    {
+        "name": "Charles Darwin",
+        "profession": "Naturalist",
+        "birth_death": "1809–1882",
+        "country": "United Kingdom",
+        "description": "He developed the theory of natural selection, revolutionizing biology and our understanding of the origins of species."
+    },
+    {
+        "name": "Rosa Parks",
+        "profession": "Civil Rights Activist",
+        "birth_death": "1913–2005",
+        "country": "USA",
+        "description": "She is famous for her pivotal role in the Montgomery Bus Boycott, which became a symbol of the civil rights movement in the United States."
+    },
+    {
+        "name": "Nikola Tesla",
+        "profession": "Inventor and Electrical Engineer",
+        "birth_death": "1856–1943",
+        "country": "Serbia/USA",
+        "description": "He was a visionary inventor whose contributions to the development of alternating current (AC) power systems have had a lasting impact on the modern world."
+    },
+    {
+        "name": "Nelson Mandela",
+        "profession": "Anti-Apartheid Revolutionary and Politician",
+        "birth_death": "1918–2013",
+        "country": "South Africa",
+        "description": "He was a key figure in the fight against apartheid in South Africa, later becoming the country's first black president and a global symbol of resistance to injustice."
+    },
+    {
+        "name": "Mahatma Gandhi",
+        "profession": "Political Leader and Activist",
+        "birth_death": "1869–1948",
+        "country": "India",
+        "description": "He was the leader of the Indian independence movement, using nonviolent civil disobedience to achieve political and social change in India."
+    },
+    {
+        "name": "Alexander the Great",
+        "profession": "King and Military Leader",
+        "birth_death": "356–323 BCE",
+        "country": "Macedonia",
+        "description": "He created one of the largest empires in history, spreading Greek culture across the Middle East and Asia."
+    },
+    {
+        "name": "Audie Murphy",
+        "profession": "Soldier and Actor",
+        "birth_death": "1925–1971",
+        "country": "USA",
+        "description": "He was one of the most decorated American combat soldiers of World War II and later became a successful actor in Hollywood."
+    },
+    {
+        "name": "Martin Luther King Jr.",
+        "profession": "Civil Rights Leader",
+        "birth_death": "1929–1968",
+        "country": "USA",
+        "description": "He was a pivotal leader in the American civil rights movement, known for his nonviolent protests and his famous 'I Have a Dream' speech."
+    },
+    {
+        "name": "Joan of Arc",
+        "profession": "Military Leader and Saint",
+        "birth_death": "1412–1431",
+        "country": "France",
+        "description": "He led French forces in several key victories during the Hundred Years' War and was later canonized as a saint for her role in French history."
+    },
+    {
+        "name": "Sigmund Freud",
+        "profession": "Neurologist and Psychoanalyst",
+        "birth_death": "1856–1939",
+        "country": "Austria",
+        "description": "He founded the field of psychoanalysis, a theory of the unconscious mind, and made significant contributions to the study of human behavior and neuroses."
+    },
+    {
+        "name": "Christopher Nolan",
+        "profession": "Film Director and Producer",
+        "birth_death": "1970–Present",
+        "country": "United Kingdom",
+        "description": "He is a critically acclaimed director known for films such as *Inception*, *The Dark Knight Trilogy*, and *Interstellar*, known for his complex narratives and innovative storytelling."
+    },
+    {
+        "name": "Catherine the Great",
+        "profession": "Empress of Russia",
+        "birth_death": "1729–1796",
+        "country": "Russia",
+        "description": "She was the longest-reigning female leader of Russia, expanding the empire and fostering the Age of Enlightenment in Russia through reforms in education and governance."
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "profession": "Actor and Environmentalist",
+        "birth_death": "1974–Present",
+        "country": "USA",
+        "description": "He is an acclaimed actor known for his roles in *Titanic*, *Inception*, and *The Revenant*, and a passionate environmentalist committed to addressing climate change."
+    },
+    {
+        "name": "Indira Gandhi",
+        "profession": "Prime Minister of India",
+        "birth_death": "1917–1984",
+        "country": "India",
+        "description": "She was the first and only female Prime Minister of India, serving for over 15 years and playing a pivotal role in shaping the country’s policies."
+    },
+    {
+        "name": "William Wallace",
+        "profession": "Military Leader",
+        "birth_death": "1270–1305",
+        "country": "Scotland",
+        "description": "He was a leader in the Wars of Scottish Independence, best remembered for his victory at the Battle of Stirling Bridge and his fierce resistance against English occupation."
+    },
+    {
+        "name": "Edgar Allan Poe",
+        "profession": "Writer and Poet",
+        "birth_death": "1809–1849",
+        "country": "USA",
+        "description": "He is known for his macabre and gothic tales, including *The Tell-Tale Heart* and *The Raven*, which have greatly influenced modern horror and mystery literature."
+    },
+    {
+        "name": "Oscar Wilde",
+        "profession": "Playwright and Poet",
+        "birth_death": "1854–1900",
+        "country": "Ireland",
+        "description": "He is renowned for his wit, his plays such as *The Importance of Being Earnest*, and his novel *The Picture of Dorian Gray*, alongside his tumultuous life."
+    }
+]
